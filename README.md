@@ -1,1 +1,1 @@
-# charityconnector
+# Charity
